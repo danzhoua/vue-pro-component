@@ -1,5 +1,6 @@
 {
   "name": "root",
+  "author": "zhoudan",
   "private": true,
   "workspaces": [
     "packages/*"
