@@ -1,0 +1,29 @@
+{
+  "name": "vue-pro-componentchildren",
+  "version": "0.0.0",
+  "description": "a terminal package",
+  "author": "zhoudan <zhoudan@xmov.ai>",
+  "homepage": "https://github.com/danzhoua/vue-pro-component#readme",
+  "license": "ISC",
+  "main": "lib/vue-pro-componentchildren.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "registry": "https://npm.xmov.ai/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danzhoua/vue-pro-component.git"
+  },
+  "scripts": {
+    "test": "node ./__tests__/vue-pro-componentchildren.test.js"
+  },
+  "bugs": {
+    "url": "https://github.com/danzhoua/vue-pro-component/issues"
+  }
+}
